@@ -1,0 +1,17 @@
+{
+  "name": "api-blueprint-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitsuruog/api-blueprint-sandbox.git"
+  },
+  "author": "mitsuruog <mitsuru.ogawa.jp@gmail.com> (http://blog.mitsuruog.info/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mitsuruog/api-blueprint-sandbox/issues"
+  },
+  "homepage": "https://github.com/mitsuruog/api-blueprint-sandbox#readme"
+}
