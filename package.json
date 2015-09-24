@@ -13,5 +13,10 @@
   "bugs": {
     "url": "https://github.com/mitsuruog/api-blueprint-sandbox/issues"
   },
-  "homepage": "https://github.com/mitsuruog/api-blueprint-sandbox#readme"
+  "homepage": "https://github.com/mitsuruog/api-blueprint-sandbox#readme",
+  "devDependencies": {
+    "aglio": "^2.1.1",
+    "drakov": "^0.1.12",
+    "gulp": "^3.9.0"
+  }
 }
